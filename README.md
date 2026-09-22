@@ -1,5 +1,8 @@
 # SONO VIDZ TRSC
 
+<img width="795" height="637" alt="SONO-VIDZ-TRSC_LOGO" src="https://github.com/user-attachments/assets/642350cb-245b-4f69-bc3f-ac8595ea2cb0" />
+
+
 Local Mac transcription machine using **faster-whisper**.
 
 ## What it does
