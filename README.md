@@ -17,6 +17,10 @@ Drop an audio or video file, press **TRSC**, and get a local transcription.
   - `PRECEPT.mp3` -> `PRECEPT_TRSC.txt`
 - Runs locally on `127.0.0.1:8777`
 
+- <img width="779" height="769" alt="SONO-VIDZ-TRSC_Shoot_00" src="https://github.com/user-attachments/assets/159df659-aebe-4cea-bc82-c55ff5eb0aac" />
+<img width="721" height="486" alt="SONO-VIDZ-TRSC_Shoot_01" src="https://github.com/user-attachments/assets/ea0f8237-4a99-43f6-8385-6685360b4adc" />
+
+
 ## Mac install
 
 Requires Python 3.
